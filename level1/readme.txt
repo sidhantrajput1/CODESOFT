@@ -1,57 +1,68 @@
-LEVEL 1 TASK 1
+# Web Development Internship – Level 1 Tasks  
+This repository contains all Level-1 tasks assigned during my Web Development Internship.
 
-Creating a personal portfolio using CSS and HTML is a popular beginner web development
+---
 
-project.
+## 🌐 Level 1 Task 1 – Personal Portfolio Website
 
-Header Section: Add your name or a logo at the top.
-Optionally, include a brief introduction or tagline.
-About Section: Insert an image of yourself.
+A beginner-friendly project created using **HTML & CSS**.  
+This website represents my personal profile with multiple sections to showcase my information, skills, and projects.
 
-Write a short bio highlighting your skills and experience.
-Skills Section: List your key skills or areas of expertise.
+### 📁 Sections Included:
+- **Header:** Name / Logo with short introduction
+- **About:** Image and short bio with skills & experience
+- **Skills:** List of technical skills
+- **Projects:** Work samples with project details
+- **Resume:** Button to download my resume (PDF)
+- **Contact:** Email, phone number, and other links
+- **Footer:** Copyright & additional info
 
-Projects Section: Showcase samples of your work or projects.
+### 🔗 Demo
+**Portfolio Website**  
+👉 *FOR DEMO CLICK HERE* (Add your hosted link)
 
-Include project titles, descriptions, and images.
+---
 
-Resume Section: Provide a link to download your resume in PDF format.
+## 🎯 Level 1 Task 2 – Landing Page
 
-Contact Section: Include your contact information, such as email address and phone
+A fully responsive **Landing Page** created using **HTML & CSS**.  
+Learned how to create layouts like columns, content sections, proper alignment, padding, and color combinations.
 
-number.
+### 🔍 Key Learnings:
+- Section structuring
+- Header & Footer design
+- CSS Boxes, spacing, and alignment
+- Creative UI design without overlapping elements
 
-Footer: Add a copyright notice and any additional links or information.
+### 🔗 Demo
+**Landing Page**  
+👉 *FOR DEMO CLICK HERE* (Add your hosted link)
 
-PORTFOLIO
+---
 
-FOR DEMO CLICK HERE
+## 🧮 Level 1 Task 3 – Basic Calculator
 
-LEVEL 1 TASK 2
+An interactive **Calculator Web App** built using **HTML, CSS & JavaScript**.
 
-A landing page is an ideal web development project for beginners. It requires basic
-knowledge of HTML and CSS. Through this project, you'll learn to create columns, divide
-sections, arrange items, and add headers and footers. The most important aspect is
-unleashing your creativity to design an impressive page. Pay attention to alignments,
-padding, color palette, boxes, and other elements. Be mindful of CSS to avoid overlapping
+### ⚙️ Features:
+- Addition, Subtraction, Multiplication, Division
+- Display Screen for input & results
+- CSS Grid aligned calculator buttons
+- Event listeners, if-else logic & operators
 
-elements. In short, a landing page project allows you to apply HTML and CSS skills,
-encouraging your creativity while ensuring a visually appealing and user-friendly design.
+---
 
-LANDING PAGE
+## 📌 Tech Stack Used:
+- **HTML**
+- **CSS**
+- **JavaScript (for Calculator)**
 
-FOR DEMO CLICK HERE
+---
 
-LEVEL 1 TASK 3
+## 👨‍💻 Author
+**Sidhant Kumar Singh**  
+Web Development Intern
 
-To create a basic calculator using CSS, HTML, and JavaScript, you'll need to implement an
-interactive interface with buttons for addition, subtraction, multiplication, and division
-operations. The calculator should have a display screen to show user input and results. Utilize
-CSS grid system for button alignments. Use event listeners, if-else statements, operators, and
-loops to handle user input and perform calculations. This project requires some skill but can be
+---
 
-done with basic knowledge of these technologies..
-
-CALCULATOR
-
-FOR DEMO CLICK HERE
+✨ *Thank you for checking out my repository!*  
